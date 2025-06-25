@@ -141,7 +141,7 @@ body {
     -webkit-transition: opacity 3s ease;
     -ms-transition: opacity 3s ease;
     transition: opacity 3s ease;
-    background-size: contain;
+    background-size: cover;
     height: 100%;
     left: 0;
     opacity: 0;
